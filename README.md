@@ -21,11 +21,12 @@ The project seems to revolve around building a predictive model that can help pr
 
 Please note that this README provides an overview of the problem statement and business objectives. More specific details, including data sources, methodology, and technical aspects, will likely be covered in other project documentation or code files.
 
-
 leads.csv: This is likely a dataset containing information about leads. Look for it in the project repository's data folder or a folder named "data."
 
-Python file: This could be the code or script used to build the lead scoring model. Look for it in the project repository's code or scripts folder. It might have an extension like .py (e.g., "lead_scoring.py").
+Leads Data Dictionary : contains the decsription about the lead parameters.
 
-Summary: A summary document might be in various formats (e.g., PDF, Word). It would typically be in the main project directory or a folder named "docs" or "summary."
+Python file: This could be the code or script used to build the lead scoring model. Look for it in the project repository's code or scripts folder. It might have an extension like .ipynb (e.g., "lead_scoring.ipynb").
 
-PPT files: PowerPoint presentation files can be stored in a folder named "presentation" or "ppt." They might have extensions like .pptx (e.g., "lead_scoring_presentation.pptx").
+Summary: A summary document might be in various formats (e.g., PDF, Word). It would typically be in the main project directory with name starts with "summary"
+
+PPT files: PowerPoint presentation files is in a pdf format which has the information about our steps in building the model and getting the result.
